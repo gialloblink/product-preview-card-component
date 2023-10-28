@@ -10,6 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -40,6 +41,25 @@ Gli utenti dovrebbero essere in grado di:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+
+### What I learned
+
+Per questo progetto ho utilizzato background-image su un div, in modo da cambiare l'URL dell'immagine al variare delle dimensioni dello schermo.
+
+```css
+#img{
+    background-image:url('images/image-product-desktop.jpg');
+}
+
+@media (max-width: 376px) {
+    #img{
+        background-image:url('images/image-product-mobile.jpg');
+    }
+}
+
+```
+
 
 ## Author
 
