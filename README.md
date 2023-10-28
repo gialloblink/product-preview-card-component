@@ -29,8 +29,8 @@ Gli utenti dovrebbero essere in grado di:
 
 ### Links
 
-- Solution URL: [ URL here](https://your-solution-url.com)
-- Live Site URL: [ URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/productpreviewcardcomponent-0haqjbKpiB](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-0haqjbKpiB)
+- Live Site URL: [https://gialloblink.github.io/product-preview-card-component/](https://gialloblink.github.io/product-preview-card-component/)
 
 ## My process
 
